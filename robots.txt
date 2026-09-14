@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://dotnotfact.github.io/potok-about/sitemap.xml
